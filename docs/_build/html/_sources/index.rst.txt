@@ -10,6 +10,9 @@ Welcome to rtd-test01's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   test01.rst
+
+
 
 
 Indices and tables
@@ -20,7 +23,9 @@ Indices and tables
 * :ref:`search`
 * :doc:`test01`
 
-=======================
+
+
+
 $project lasjdlasdfasdf
 =======================
 
